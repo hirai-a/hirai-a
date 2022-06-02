@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hirai-a はじめまして
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning JavaScript
 
 <!---
 hirai-a/hirai-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
