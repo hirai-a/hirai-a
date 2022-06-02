@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hirai-a
+- 👋 Hi, I’m @hirai-a はじめまして
 
 - 🌱 I’m currently learning ...
 
